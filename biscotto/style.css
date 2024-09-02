@@ -1,0 +1,149 @@
+body{
+    background: black;
+}
+
+#bottone_accedi{
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    background:rgb(255, 255, 255);
+    border: none;
+    border-radius: 120px 120px 120px;
+    width: 15%;
+    height: 80px;
+}
+
+#bottone_accedi:hover{
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    background: rgb(255, 166, 0);
+    border: none;
+    border-radius: 120px 120px 120px;
+    width: 15%;
+    height: 80px;
+}
+
+#bottone_social{
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    background: rgb(255, 255, 255);
+    border: none;
+    border-radius: 120px 120px 120px;
+    width: 15%;
+    height: 80px;
+}
+
+#bottone_social:hover{
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    background: rgb(255, 166, 0);
+    border: none;
+    border-radius: 120px 120px 120px;
+    width: 15%;
+    height: 80px;
+}
+
+.btn{
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.btn:hover{
+    transform: translatey(-12px);
+}
+
+#titoli{
+    margin-left: 37%;
+}
+
+h1{
+    color:rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+c{
+    color:rgb(255, 166, 0);
+    font-family: sans-serif;
+}
+
+#sottotitolo{
+    color:rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+#log{
+    margin-left: 37%;
+}
+
+#minititolo{
+    color:whitesmoke;
+    font-family: sans-serif;
+}
+
+input{
+    border-radius: 120px 120px 120px;
+    border:none;
+    height: 15px;
+}
+
+::placeholder{
+    color:black;
+    font-family: sans-serif;
+}
+
+#invia{
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    border-radius: 120px 120px 120px;
+    border:none;
+    height: 40px;
+    width: 19%;
+    background: rgb(255, 166, 0);;
+}
+
+
+#home{
+    width: 15%;
+}
+
+
+#visu{
+    width: 5%;
+}
+
+#tik{
+    border-radius: 120px 120px 120px;
+    background: whitesmoke;
+    border:none;
+    margin-left:28%;
+}
+
+#tik:hover{
+    border-radius: 120px 120px 120px;
+    background:rgb(255, 166, 0);;
+    border:none;
+}
+
+#minit{
+    color:whitesmoke;
+    margin-left: 37%;
+    font-family: sans-serif;
+}
+
+#titolo5{
+    color:whitesmoke;
+    font-family: sans-serif;
+    margin-left: 44%;
+}
+
+#partite{
+    border-style: dashed;
+    border: whitesmoke;
+}
+
+#partite{
+    border-style: dashed;
+    border:rgb(255, 166, 0);
+    width: 15%;
+}
